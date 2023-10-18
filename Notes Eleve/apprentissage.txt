@@ -1,0 +1,18 @@
+Quel est l’intérêt de l’utiliser ? 
+Dans ‘apprentissages.txt’, résumez ce que vous venez d’apprendre 
+- ou ce que vous saviez déjà, sur Typescript.
+
+TypeScript est un langage Web qui a un principe similaire à JavaScript. 
+Il est basé sur JavaScript et permet de créer des applications JavaScript. 
+Il est utilisé pour développer des applications côté client et côté serveur. 
+
+
+
+
+Meilleur apprentissage de la structure d'un projet React
+Découverte de Ionic 
+
+Problèmes rencontrés lors du développement : 
+- Ecran noir suite à un problème de boucles et de redirections 
+- Card d'ajout non fonctionnel 
+- Card d'ajout ajoute deux Pins au lieu d'un seul malgré les fonctions qui ne s'activent qu'une fois (problème non résolu 18/10)
